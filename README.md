@@ -1,8 +1,8 @@
-# Aliucord-sounds
-Library for sounds for aliucord app
+# ℹ️ about ℹ️
+My idea came from a mod called aliucord(not own be me). So I created a library of sounds for it.
 
 # ℹ️ INFO ℹ️
-Please do not upload/re-upload/download/distribut. If you need to. Please contact me first for authorization for it.
+Please do not upload/re-upload/download/distribut any of my content. If you need to. Please contact me first for authorization for it.
 
 # ⚠️ IMPORTANT ⚠️
 Please credit my work if you want to use it for external purposes. (you need always credit any body work [duh])
